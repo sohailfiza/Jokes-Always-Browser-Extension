@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "Jokes Always",
+    "description": "Enjoy Unlimited Jokes Anytime",
+    "version": "1.0.0",
+    "action": {
+        "default_popup": "popup/index.html",
+        "default_icon": "images/logo.png",
+        "default_title": "Jokes Always"
+    },
+    "icons": {
+        "16": "images/logo.png",
+        "32": "images/logo.png",
+        "48": "images/logo.png",
+        "128": "images/logo.png"
+    },
+    "permissions": [
+        "activeTab"
+    ],
+    "author": "Md Sohail Fiza"
+}

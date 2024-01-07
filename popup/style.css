@@ -1,0 +1,11 @@
+body {
+    
+    background-color: rgb(35, 70, 101);
+    color: whitesmoke;
+}
+p {
+    width: 220px;
+    margin: 15px;
+    font-family: monospace;
+    font-size: 20px;
+}
